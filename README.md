@@ -394,6 +394,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [northlarkhq/kitbay-mcp](https://github.com/northlarkhq/kitbay-mcp) | kitbay plugin: the remote [Kitbay](https://kitbay.app/) MCP server plus a skill to find MCP servers and agent skills for a tool (48,000+), check their sourced facts and install them with your permission | `claude plugin marketplace add northlarkhq/kitbay-mcp` then `claude plugin install kitbay@kitbay` |
 
 
 ### Skills & Frameworks
